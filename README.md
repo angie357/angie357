@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello there! 👋
+
+### Little about me:
+- I like learning new things, no matter the topic 🧬⚗💻📸🌍
+- I am Star wars✨ and LotR+Hobbit💍 fan 
+- I love reading (now recommending: The Name of the Wind 💛 by: Patrick Rothfuss)
+- Another hobbies include: 🧗🏻‍♀️🏃🏻‍♀️🚵🏻‍♀️👩🏻‍💻🎹🎧🏕
+
+⚡ Fun fact: At all times there is some song playing in my head 😆🎶
 
 <!--
 **angie357/angie357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
